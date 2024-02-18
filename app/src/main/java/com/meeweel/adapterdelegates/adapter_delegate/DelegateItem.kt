@@ -1,0 +1,3 @@
+package com.meeweel.adapterdelegates.adapter_delegate
+
+interface DelegateItem
